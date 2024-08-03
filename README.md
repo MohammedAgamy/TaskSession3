@@ -1,8 +1,5 @@
 # Kotlin Practice Programs
 
-<img src="https://ai.github.io/size-limit/logo.svg" align="right"
-     alt="Size Limit logo by Anton Lovchikov" width="120" height="178">
-
 This repository contains Kotlin programs that perform various tasks such as drawing shapes, counting vowels, 
 reversing strings, filtering digits, splitting strings into words, and removing spaces from strings.
 
@@ -18,6 +15,7 @@ reversing strings, filtering digits, splitting strings into words, and removing 
     }
     ```
 
+### Resuilt 
     <p align="center">
   <img src="./img/example.png" alt="Size Limit CLI" width="738">
 </p>
