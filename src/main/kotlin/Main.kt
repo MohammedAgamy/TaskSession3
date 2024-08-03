@@ -26,7 +26,6 @@ fun main(args: Array<String>) {
             }
             println(" ")
         }
-
     */
 
     for (index in 1..5) {
